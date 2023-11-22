@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "5034801000")(type "Legacy")(uri "${KIPRJMOD}/Libs/Molex_5034801000/5034801000.lib")(options "")(descr ""))
+  (lib (name "TPD2E001DZDR")(type "Legacy")(uri "${KIPRJMOD}/Libs/TPD2E001DZDR/TPD2E001DZDR.lib")(options "")(descr ""))
+)
